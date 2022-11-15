@@ -1,5 +1,5 @@
 body{
-background-color: rgb(177, 201, 221);    
+background-color:  hsl(220, 15%, 55%);
 
 }
 
@@ -12,9 +12,11 @@ background-color: rgb(177, 201, 221);
     padding: 13px;
 }
 .card{
-    border-radius: 1rem;    
+    border-radius: 1rem;
+    box-shadow: 2px 8px 20px black;  
 }
 #bottomTxt{
-    font-size: small;
+    font-size: 15px;
 padding: 7px;
+
 }
